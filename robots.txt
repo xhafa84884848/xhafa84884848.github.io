@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_10.txt
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_15.txt
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_2.txt
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_24.txt
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_29.txt
+Sitemap: https://xhafa84884848.github.io/xhafa84884848_github_io_zp529_5.txt
